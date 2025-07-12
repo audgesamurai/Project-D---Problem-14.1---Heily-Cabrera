@@ -6,7 +6,7 @@
 // Reimplement the member functions so that they have the same effect as before. // 
 
 //Programmer: Heily Cabrera
-//Tester: Audrey Tapia 
+//Tester: Audrey Tapia (tested)
 
 // Group Project D //
 /***** Members *****/
